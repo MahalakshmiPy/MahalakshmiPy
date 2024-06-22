@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Websites and Applications<br>👀 I’m interested in Front-End Development <br>🌱 I’m currently learning JavaScript<br>📫 Reach me in Discord Mahalakshmi0752_41323<br>⚡ Fun fact Even a fool can write code that a computer can understand. Good programmers write code that humans can understand.<br>😄 Pronouns: Her/She
+🔭 I’m currently working on Websites and Applications<br>👀 I’m interested in Front-End Development <br>🌱 I’m currently learning JavaScript<br>📫 Reach me in Discord Mahalakshmi0752_41323<br>⚡ Fun fact Even a fool can write code that a computer can understand. Good programmers write code that humans can understand.<br>😄 Pronouns: Her/She<br> 💻Website: https://mahalakshmipy.github.io/Personal-Portfolio/
 
 **LANGUAGES:**
 
